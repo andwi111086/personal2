@@ -27,6 +27,8 @@ Lp. | nazwa | Opis
 4.|nazwa4|To jest czwarta nazwa w tym zestawieniu. Ten opis bedzie troche troche dłuższy. Czy tu urtworzy sie ajkapit, czy tez nie. bardzo jestem ciekawy, jak to zadziala.
 
 
+The background color is `#ffffff` for light mode and `#000000` for dark mode.
+
 [^1]: My reference.
 [^szpalty]:    To jest kolejny odnosnik.
 
