@@ -17,3 +17,11 @@ Mysle ze moze byc. Ciekawe,, co sie stanie, gdy juz przekroczymy szerokosc szpal
 3. wyliczenie 3
 
    
+## Jeszcze jedna tabelka
+
+Lp. | nazwa | Opis
+---| :---: | :---
+1.|nazwa1| To jest pierwsza nazwa w tym zestawieniu
+2.| nazwa2_troche_dluzzsza| To jest druga nazwa w tym zestawieniu, ale troche dłuższa.
+3.|nazw3| Bardzo krótka nazwa
+
