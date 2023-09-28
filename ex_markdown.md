@@ -12,7 +12,7 @@ Markdown | Less|Pretty
 
 A teraz zwykly tekst dalej **zobaczymy co sie stanie**.
 1. wyliczenie 1 to jest taki sobie tekst, ktory wlasnie przychodzi mi na mysl[^1].
-Mysle ze moze byc. Ciekawe,, co sie stanie, gdy juz przekroczymy szerokosc szpalty i bedzie zawijanie tekstu. Czy tu urtworzy sie ajkapit, czy tez nie. bardzo jestem ciekawy, jak to zadziala.
+Mysle ze moze byc. Ciekawe,, co sie stanie, gdy juz przekroczymy szerokosc [^szpalty] i bedzie zawijanie tekstu. Czy tu urtworzy sie ajkapit, czy tez nie. bardzo jestem ciekawy, jak to zadziala.
 2. wyliczenie 2
 3. wyliczenie 3
 
@@ -22,9 +22,11 @@ Mysle ze moze byc. Ciekawe,, co sie stanie, gdy juz przekroczymy szerokosc szpal
 Lp. | nazwa | Opis
 ---| :---: | :---
 1.|nazwa1| To jest pierwsza nazwa w tym zestawieniu
-2.| nazwa2_troche_dluzzsza| To jest druga nazwa w tym zestawieniu, ale troche dłuższa.
+2.| nazwa2_troche_dluższa| To jest druga nazwa w tym zestawieniu, ale troche dłuższa.
 3.|nazw3| Bardzo krótka nazwa
 4.|nazwa4|To jest czwarta nazwa w tym zestawieniu. Ten opis bedzie troche troche dłuższy. Czy tu urtworzy sie ajkapit, czy tez nie. bardzo jestem ciekawy, jak to zadziala.
 
 
 [^1]: My reference.
+[^szpalty]:    To jest kolejny odnosnik.
+
