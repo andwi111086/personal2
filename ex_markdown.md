@@ -24,4 +24,5 @@ Lp. | nazwa | Opis
 1.|nazwa1| To jest pierwsza nazwa w tym zestawieniu
 2.| nazwa2_troche_dluzzsza| To jest druga nazwa w tym zestawieniu, ale troche dłuższa.
 3.|nazw3| Bardzo krótka nazwa
+4.|nazwa4|To jest czwarta nazwa w tym zestawieniu. Ten opis bedzie troche troche dłuższy. Czy tu urtworzy sie ajkapit, czy tez nie. bardzo jestem ciekawy, jak to zadziala.
 
